@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" role="img" aria-label="DineLocal logo">
+  <title>DineLocal — Discover, Recommend, Reserve</title>
+  <g fill="none" stroke="#e7bd83" stroke-width="5.7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Restaurant chef hat emblem -->
+    <path d="M34 68 C17 68 14 42 29 34 C36 29 43 30 49 34 C52 14 75 11 87 28 C94 21 111 23 116 35 C124 53 113 68 102 68"/>
+    <path d="M36 67 L39 90 Q68 101 98 90 L101 67"/>
+    <path d="M45 87 Q68 94 92 87" stroke-width="3"/>
+    <path d="M54 56 L54 75 M69 50 L69 75 M84 56 L84 75" stroke-width="3.1"/>
+    <path d="M34 111 Q68 128 102 111" stroke-width="3" opacity=".8"/>
+    <path d="M30 116 L22 123 M106 116 L114 123" stroke-width="3" opacity=".65"/>
+  </g>
+  <text x="137" y="79" fill="#fff7ef" font-family="Georgia, 'Liberation Serif', serif" font-size="70" font-weight="bold" letter-spacing="-3">Dine</text>
+  <text x="289" y="79" fill="#f25a60" font-family="Georgia, 'Liberation Serif', serif" font-size="70" font-weight="bold" letter-spacing="-3">Local</text>
+  <g fill="#e8cbaa" font-family="Arial, 'Liberation Sans', sans-serif" font-size="17" letter-spacing="1.2">
+    <text x="148" y="113">DISCOVER</text><circle cx="267" cy="107" r="3" fill="#d64552"/>
+    <text x="281" y="113">RECOMMEND</text><circle cx="422" cy="107" r="3" fill="#d64552"/>
+    <text x="437" y="113">RESERVE</text>
+  </g>
+  <path d="M137 126 H553" stroke="#a74b51" stroke-width="1" opacity=".65" />
+</svg>
