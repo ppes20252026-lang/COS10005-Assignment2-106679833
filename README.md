@@ -2,9 +2,11 @@
 
 **COS10005 Web Development | Assignment 2 | August 2026**
 
+
 **Student:** Md Jahin Sadik  
 **Student ID:** 106679833  
 **GitHub repository:** https://github.com/ppes20252026-lang/COS10005-Assignment2-106679833  
+**Mercury link:** https://mercury.swin.edu.au/cos10005/s106679833/assignment2/
 
 ## About the project
 
